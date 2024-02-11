@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation date: 10th of Feburary
+Project creation date: 10th of Feburary
+Author: Great Cherry
